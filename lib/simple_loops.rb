@@ -16,7 +16,7 @@ end
 
 def output_array(array)
   i = 0 
-  while i < sumn do
+  while i < array.length do
     puts message
     i += 1
   end
