@@ -29,4 +29,5 @@ def return_string_array(array)
     new << array[i].to_s
     i += 1
   end
+  new
 end
