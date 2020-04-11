@@ -13,3 +13,11 @@ def loop_message_n_times(message,sumn)
     i += 1
   end
 end
+
+def output_array(array)
+  i = 0 
+  while i < sumn do
+    puts message
+    i += 1
+  end
+end
